@@ -1,6 +1,6 @@
 # socialmediainform8
 
-A new Flutter application.
+A new Flutter application. This is a tool that takes in input of Social Media Objects and returns statistical data of these social media objects(Such as rate of change of YouTube views with respect to likes).
 
 ## Getting Started
 
