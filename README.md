@@ -2,6 +2,8 @@
 
 A new Flutter application. This is a tool that takes in input of Social Media Objects and returns statistical data of these social media objects(Such as rate of change of YouTube views with respect to likes).
 
+Google Slides description: https://docs.google.com/presentation/d/1DfR9RAvnb4QHH7fgtR1TCfr8saZTKXPpoWUxW4BBkx0/edit?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
