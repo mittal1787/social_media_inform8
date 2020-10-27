@@ -4,6 +4,8 @@ A new Flutter application. This is a tool that takes in input of Social Media Ob
 
 Google Slides description: https://docs.google.com/presentation/d/1DfR9RAvnb4QHH7fgtR1TCfr8saZTKXPpoWUxW4BBkx0/edit?usp=sharing
 
+Social media platforms: Twitter, Facebook(Not yet working), Instagram, YouTube, Twitch, and Tumblr
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
