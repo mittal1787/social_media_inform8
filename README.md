@@ -6,10 +6,6 @@ Google Slides description: https://docs.google.com/presentation/d/1DfR9RAvnb4QHH
 
 Social media platforms: Twitter, Facebook(Not yet working), Instagram, YouTube, Twitch, and Tumblr
 
-Twitter nodes: 
- - Tweet: Analyze Twitter Tweets based on Twitter ID. Returns sentiment of Tweet, sentiment analysis of Tweet replies, metrics of tweet, and  
- - 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
